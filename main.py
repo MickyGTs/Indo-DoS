@@ -1,4 +1,6 @@
-import random, socket, threading
+import random
+import socket
+import threading
 
 # Tools Denial of Service dengan bahasa Indonesia
 # Dilarang menggunakan tools ini untuk abusing atau memperjual-belikan toolsnya'
