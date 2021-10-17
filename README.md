@@ -18,7 +18,7 @@
 - `pkg install git`
 - `git clone https://github.com/LyteVV/Indo-DoS`
 - `cd Indo-Dos`
-- `python32 main.py`
+- `python2 main.py`
 
 # Anda bisa hubungi / temukan saya di:
 - **Instagram** | @lyte.idn
