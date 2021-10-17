@@ -11,6 +11,15 @@
 - `python main.py` | Windows
 - `python3 main.py` | Linux
 
+# Cara menggunakan di Termux:
+- `pkg update && pkg upgrade`
+- `pkg install python`
+- `pkg install python2`
+- `pkg install git`
+- `git clone https://github.com/LyteVV/Indo-DoS`
+- `cd Indo-Dos`
+- `python3 main.py`
+
 # Anda bisa hubungi / temukan saya di:
 - **Instagram** | @lyte.idn
 - **Discord** | Lyte#0010
