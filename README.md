@@ -12,7 +12,7 @@
 - `python3 main.py` | Linux
 
 # Cara menggunakan di Termux:
-- `pkg update && pkg upgrade`
+- `apt update`
 - `pkg install python`
 - `pkg install python2`
 - `pkg install git`
