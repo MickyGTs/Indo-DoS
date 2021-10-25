@@ -20,11 +20,6 @@
 - `cd Indo-Dos`
 - `python2 main.py`
 
-# My Link:
-- TRCyber | https://trcyber.xyz
-- My Portfolio Website | https://lyte.my.id
-- My Linktr.ee | https://linktr.ee/lyteidn
-
 ***
 
 # Support & Donate:
