@@ -20,10 +20,6 @@
 - `cd Indo-Dos`
 - `python2 main.py`
 
-# Anda bisa hubungi / temukan saya di:
-- **Instagram** | @lyte.idn
-- **Discord** | Lyte#0010
-
 # My Link:
 - TRCyber | https://trcyber.xyz
 - My Portfolio Website | https://lyte.my.id
