@@ -7,14 +7,7 @@ import threading
 # Kami mengizinkan siapapun untuk merecode sourcenya
 
 # Hiasan / Design aja!
-print('''
-██╗  ██╗   ██╗████████╗███████╗██████╗ ██╗   ██╗
-██║  ╚██╗ ██╔╝╚══██╔══╝██╔════╝██╔══██╗╚██╗ ██╔╝
-██║   ╚████╔╝    ██║   █████╗  ██████╔╝ ╚████╔╝ 
-██║    ╚██╔╝     ██║   ██╔══╝  ██╔═══╝   ╚██╔╝  
-███████╗██║      ██║   ███████╗██║        ██║   
-╚══════╝╚═╝      ╚═╝   ╚══════╝╚═╝        ╚═╝   
-''')
+
 target_server = str(input("[ -> ] Ketikkan Alamat IP / Website target: ")) # Masukkan Server IP / Target Website
 port_server = int(input("[ -> ] Masukkan Port target: ")) # Masukkan Port Server, Contohnya (80)
 mengirim_request = int(input("[ -> ] Mengirim Request ke Server (10000 - 175000): ")) # Masukkan Jumlah Request yang akan di kirim
